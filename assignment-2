@@ -1,0 +1,13 @@
+<html>
+<body>
+<h1>JavaScript Arrays</h1>
+
+<p id="demo"></p>
+
+<script>
+let fruits = ["apple", "banana", "orange", "grape", "mango"];
+document.getElementById("demo").innerHTML = fruits;
+</script>
+
+</body>
+</html>
